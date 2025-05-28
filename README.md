@@ -4,7 +4,8 @@ Welcome! I'm **Md Suny Shaikh**, a passionate Full Stack Web Application Develop
 
 ---
 Current State
-[![GitHub Streak](https://streak-stats.demolab.com/?user=suny-webdevs)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=suny-webdevs&theme=dark)](https://git.io/streak-stats)
 ---
 
 ## 🏆 Top Skills
