@@ -3,6 +3,9 @@
 Welcome! I'm **Md Suny Shaikh**, a passionate Full Stack Web Application Developer. I specialize in building robust and scalable web solutions with a strong emphasis on modern technologies and best practices.
 
 ---
+Current State
+[![GitHub Streak](https://streak-stats.demolab.com/?user=suny-webdevs)](https://git.io/streak-stats)
+---
 
 ## 🏆 Top Skills
 
