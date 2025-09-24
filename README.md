@@ -1,16 +1,20 @@
+<a href="https://suny-webdevs.vercel.app">
 <img src="https://github.com/suny-webdevs/suny-webdevs/blob/main/photos/banner.png" alt="Banner" />
+</a>
 
-# 👨‍💻 Full Stack Developer
+## 👨‍💻 Intro_
 
-Welcome! I'm **Md Suny Shaikh**, a passionate Full Stack Web Application Developer. I specialize in building robust and scalable web solutions with a strong emphasis on modern technologies and best practices.
+Welcome! I'm **Md Suny Shaikh**, a passionate **Full Stack Web Application Developer**. I provide web solutions with a strong emphasis on modern technologies and best practices.
 
 ---
-## 📊 Current State
+
+## 📊 Current State_
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=suny-webdevs&theme=dark)](https://git.io/streak-stats)
+
 ---
 
-## 🏆 Top Skills
+## 🏆 Top Skills_
 
 - **Languages & Frameworks:** JavaScript, TypeScript, React, Node.js, Express, Next.js
 - **Authentication:** NextAuth, Custom Auth Flows
