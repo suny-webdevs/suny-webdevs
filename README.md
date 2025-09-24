@@ -4,19 +4,16 @@
 
 ## 👨‍💻 Intro_
 <br/>
-<br/>
-<br/>
 <h3 align="center">
   Welcome! I'm Md Suny Shaikh, a passionate Full Stack Web Application Developer. I provide web solutions with a strong emphasis on modern technologies and best practices.
 </h3>
 <br/>
 <br/>
 <br/>
+
 ## 📊 Current State_
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=suny-webdevs&theme=dark)](https://git.io/streak-stats)
-
----
 
 ## 🏆 Top Skills_
 
@@ -25,14 +22,10 @@
 - **UI/UX:** Tailwind CSS, Responsive Design, Accessibility
 - **Tooling:** REST APIs, Git, CI/CD, Modern DevOps
 
----
-
 ## 👨‍🎓 Certification
 
 Certified **Full Stack Web Developer**  
 *Programming Hero, mentored by Jhangkar Mahbub*
-
----
 
 ## 💼 Professional Bio
 
@@ -43,14 +36,10 @@ As a dedicated Full Stack Web Application Developer, I bring hands-on expertise 
 - Committed to code quality, maintainability, and best practices in modern web development.
 - Always learning and exploring new technologies to provide the best solutions.
 
----
-
 ## 🌐 Connect With Me
 
 - **LinkedIn:** [mdsunyshaikh](https://linkedin.com/in/mdsunyshaikh)
 - **Personal Portfolio:** [suny-webdevs.vercel.app](https://suny-webdevs.vercel.app)
-
----
 
 ## 📂 Featured Projects
 
