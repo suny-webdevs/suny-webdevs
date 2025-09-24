@@ -1,4 +1,6 @@
-# 👨‍💻 Full Stack Web Application Developer
+<img src="https://github.com/suny-webdevs/suny-webdevs/blob/main/photos/banner.png" alt="Banner" />
+
+# 👨‍💻 Full Stack Developer
 
 Welcome! I'm **Md Suny Shaikh**, a passionate Full Stack Web Application Developer. I specialize in building robust and scalable web solutions with a strong emphasis on modern technologies and best practices.
 
