@@ -5,7 +5,7 @@
 ## 👨‍💻 Intro_
 
 <h3 align="center">
-  Welcome! I'm **Md Suny Shaikh**, a passionate **Full Stack Web Application Developer**. I provide web solutions with a strong emphasis on modern technologies and best practices.
+  Welcome! I'm Md Suny Shaikh, a passionate Full Stack Web Application Developer. I provide web solutions with a strong emphasis on modern technologies and best practices.
 </h3>
 
 ---
