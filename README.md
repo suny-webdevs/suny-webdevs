@@ -3,13 +3,15 @@
 </a>
 
 ## 👨‍💻 Intro_
-
+<br/>
+<br/>
+<br/>
 <h3 align="center">
   Welcome! I'm Md Suny Shaikh, a passionate Full Stack Web Application Developer. I provide web solutions with a strong emphasis on modern technologies and best practices.
 </h3>
-
----
-
+<br/>
+<br/>
+<br/>
 ## 📊 Current State_
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=suny-webdevs&theme=dark)](https://git.io/streak-stats)
