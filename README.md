@@ -2,22 +2,34 @@
 <img src="https://github.com/suny-webdevs/suny-webdevs/blob/main/photos/banner.png" alt="Banner" />
 </a>
 
-## 👨‍💻 Intro_
+## 👨‍💻 Intro\_
+
 <br/>
 <p align="center">
-  Welcome! <b>I'm Md Suny Shaikh</b>, a passionate <b>Full Stack Web Application Developer</b>. I provide web solutions with a strong emphasis on modern technologies and best practices.
+  Hi, I'm MD Suny Shaikh 👋 Full Stack Developer | MERN Specialist | UI/UX Designer Economics graduate turned Full Stack Engineer. I bridge the gap between analytical problem-solving and high-performance technical architecture.
 </p>
 <br/>
 <br/>
 <br/>
 
-## 📊 Current State_
+## 📊 Current State\_
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=suny-webdevs&theme=dark)](https://git.io/streak-stats)
 
-## 🏆 Top Skills_
+## 🏆 Top Skills\_
 
 - **Languages & Frameworks:** JavaScript, TypeScript, React, Node.js, Express, Next.js
+  <div align="center">
+    <img src="https://github.com/suny-webdevs/suny-webdevs/blob/main/photos/javascript.png" alt="JavaScript" />
+    <img src="https://github.com/suny-webdevs/suny-webdevs/blob/main/photos/typescript.png" alt="Typescript" />
+  </div>
+  <br>
+  <div align="center">
+    <img src="https://github.com/suny-webdevs/suny-webdevs/blob/main/photos/react.png" alt="React.js" />
+    <img src="https://github.com/suny-webdevs/suny-webdevs/blob/main/photos/next.png" alt="Next.js" />
+    <img src="https://github.com/suny-webdevs/suny-webdevs/blob/main/photos/node.png" alt="Node.js" />
+  </div>
+  <br>
 - **Authentication:** NextAuth, Custom Auth Flows
 - **UI/UX:** Tailwind CSS, Responsive Design, Accessibility
 - **Tooling:** REST APIs, Git, CI/CD, Modern DevOps
@@ -25,7 +37,7 @@
 ## 👨‍🎓 Certification
 
 Certified **Full Stack Web Developer**  
-*Programming Hero, mentored by Jhangkar Mahbub*
+_Programming Hero, mentored by Jhangkar Mahbub_
 
 ## 💼 Professional Bio
 
