@@ -28,8 +28,18 @@
     <img src="https://github.com/suny-webdevs/suny-webdevs/blob/main/photos/react.png" alt="React.js" width="100px" height="100px" />
     <img src="https://github.com/suny-webdevs/suny-webdevs/blob/main/photos/next.png" alt="Next.js" width="100px" height="100px" />
     <img src="https://github.com/suny-webdevs/suny-webdevs/blob/main/photos/node.png" alt="Node.js" width="100px" height="100px" />
+    <img src="https://github.com/suny-webdevs/suny-webdevs/blob/main/photos/express.png" alt="Express.js" width="100px" height="100px" />
   </p>
   <br>
+  <p align="center">
+    <img src="https://github.com/suny-webdevs/suny-webdevs/blob/main/photos/postgresql.png" alt="PostgreSQL" width="100px" height="100px" />
+    <img src="https://github.com/suny-webdevs/suny-webdevs/blob/main/photos/mongodb.png" alt="MongoDB" width="100px" height="100px" />
+  </p>
+  <br>
+<p align="center">
+    <img src="https://github.com/suny-webdevs/suny-webdevs/blob/main/photos/wordpress.png" alt="Wordpress" width="100px" height="100px" />
+    <img src="https://github.com/suny-webdevs/suny-webdevs/blob/main/photos/elementor.png" alt="Elementor" width="100px" height="100px" />
+  </p>
 - **Authentication:** NextAuth, Custom Auth Flows
 - **UI/UX:** Tailwind CSS, Responsive Design, Accessibility
 - **Tooling:** REST APIs, Git, CI/CD, Modern DevOps
