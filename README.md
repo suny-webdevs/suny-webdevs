@@ -21,13 +21,13 @@
 - **Languages & Frameworks:** JavaScript, TypeScript, React, Node.js, Express, Next.js
   <p align="center">
     <img src="https://github.com/suny-webdevs/suny-webdevs/blob/main/photos/javascript.png" alt="JavaScript" width="100px" height="100px" />
-    <img src="https://github.com/suny-webdevs/suny-webdevs/blob/main/photos/typescript.png" alt="Typescript" />
+    <img src="https://github.com/suny-webdevs/suny-webdevs/blob/main/photos/typescript.png" alt="Typescript" width="100px" height="100px" />
   </p>
   <br>
   <p align="center">
-    <img src="https://github.com/suny-webdevs/suny-webdevs/blob/main/photos/react.png" alt="React.js" />
-    <img src="https://github.com/suny-webdevs/suny-webdevs/blob/main/photos/next.png" alt="Next.js" />
-    <img src="https://github.com/suny-webdevs/suny-webdevs/blob/main/photos/node.png" alt="Node.js" />
+    <img src="https://github.com/suny-webdevs/suny-webdevs/blob/main/photos/react.png" alt="React.js" width="100px" height="100px" />
+    <img src="https://github.com/suny-webdevs/suny-webdevs/blob/main/photos/next.png" alt="Next.js" width="100px" height="100px" />
+    <img src="https://github.com/suny-webdevs/suny-webdevs/blob/main/photos/node.png" alt="Node.js" width="100px" height="100px" />
   </p>
   <br>
 - **Authentication:** NextAuth, Custom Auth Flows
